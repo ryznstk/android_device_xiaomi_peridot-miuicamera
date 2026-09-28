@@ -1,5 +1,2 @@
 # Camera
 ro.hardware.camera=xiaomi
-
-# AUX
-vendor.camera.aux.packagelist=com.android.camera,org.lineageos.aperture,com.google.android.GoogleCamera
