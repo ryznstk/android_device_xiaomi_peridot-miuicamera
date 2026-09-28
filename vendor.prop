@@ -1,2 +1,5 @@
 # Camera
 ro.hardware.camera=xiaomi
+
+# AUX
+vendor.camera.aux.packagelist=com.android.camera
